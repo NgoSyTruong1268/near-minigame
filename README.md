@@ -1,4 +1,4 @@
-Minigame is a game of chance!
+Minigame is a game of chance, smart contract will auto random to choose winner.
 
 Let's start!
 
