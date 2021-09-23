@@ -1,4 +1,4 @@
-Minigame is a game of chance, smart contract will auto random to choose winner.
+My demo project is a minigame of chance, smart contract will auto random to choose winner.
 
 Let's start!
 
