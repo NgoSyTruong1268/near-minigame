@@ -13,8 +13,8 @@ yarn deploy:dev
 ```
 - Add players
 near call dev-1632391902293-48567974163302 --accountId ns-truong.testnet addPlayer '{"idPlayer": "Player1.near"}'
-near call dev-1632391902293-48567974163302 --accountId ns-truong.testnet addPlayer '{"idPlayer": "Player1.near"}'
-near call dev-1632391902293-48567974163302 --accountId ns-truong.testnet addPlayer '{"idPlayer": "Player1.near"}'
+near call dev-1632391902293-48567974163302 --accountId ns-truong.testnet addPlayer '{"idPlayer": "Player2.near"}'
+near call dev-1632391902293-48567974163302 --accountId ns-truong.testnet addPlayer '{"idPlayer": "Player3.near"}'
 
 - create random Winners
 near call dev-1632391902293-48567974163302 --accountId ns-truong.testnet createRandomWinners
